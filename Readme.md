@@ -1,4 +1,4 @@
-Mühendislik Projesi 1
+<h1>Word Search in Hash Table<h1>
   
   <h2 style="color:blue;">Ekran Çıktıları</h2>
 <pre>
